@@ -439,7 +439,7 @@ border-top:1px solid #eeeeee;
 
 Kemudian tambahkan CSS.
 
-![Foto](foto/foto12.2.png)
+![Foto](Foto/foto12.2.png)
 
 Lalu lihat hasilnya
 
